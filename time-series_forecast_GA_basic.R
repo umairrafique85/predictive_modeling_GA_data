@@ -1,7 +1,7 @@
 # Basic Time series forecasting to set goals for future, or analyze performance
 # if data further in the past available for training. Using prophet
 
-viewId_champion <- 14165234
+viewId_champion <- 'abcd1234'
 
 # data pull
 
